@@ -5,7 +5,9 @@ using namespace std;
 int
 main()
 {
-cout<<"hello"<<" world!"<<endl;
+string name;
+cin>>name;
+cout<<"hello"<<" world from "<<name<<endl;
 
 return 0;
 }
