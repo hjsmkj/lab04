@@ -1,13 +1,9 @@
 #include <iostream>
 
-using namespace std;
-
-int
-main()
+int main()
 {
-string name;
-cin>>name;
-cout<<"hello"<<" world from "<<name<<endl;
-
-return 0;
+	std::string name;
+	std::cin>>name;
+	std::cout<<"hello, world from "<<name<<std::endl;
+	return 0;
 }
