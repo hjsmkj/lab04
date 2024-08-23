@@ -1,3 +1,0 @@
-/home/vitalia/hjsmkj/workspace/projects/lab03/solver_lib/CMakeFiles/solver.dir
-/home/vitalia/hjsmkj/workspace/projects/lab03/solver_lib/CMakeFiles/edit_cache.dir
-/home/vitalia/hjsmkj/workspace/projects/lab03/solver_lib/CMakeFiles/rebuild_cache.dir
