@@ -1,6 +1,0 @@
-/home/vitalia/hjsmkj/workspace/projects/lab03/solver_application/CMakeFiles/formatter.dir
-/home/vitalia/hjsmkj/workspace/projects/lab03/solver_application/CMakeFiles/formatter_ex.dir
-/home/vitalia/hjsmkj/workspace/projects/lab03/solver_application/CMakeFiles/solver.dir
-/home/vitalia/hjsmkj/workspace/projects/lab03/solver_application/CMakeFiles/equation.dir
-/home/vitalia/hjsmkj/workspace/projects/lab03/solver_application/CMakeFiles/edit_cache.dir
-/home/vitalia/hjsmkj/workspace/projects/lab03/solver_application/CMakeFiles/rebuild_cache.dir
